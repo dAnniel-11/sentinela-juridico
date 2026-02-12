@@ -28,7 +28,7 @@ envia convites e gera relatórios — tudo com interface gráfica moderna.
 
 ---
 
-## 🔍 Problema
+## Problema
 
 Escritórios de advocacia gerenciam dezenas de audiências judiciais por semana. O processo manual envolve:
 
@@ -52,7 +52,7 @@ O operador carrega a planilha, clica "Iniciar" e o sistema faz o resto — inclu
 
 ---
 
-## ⚡ Funcionalidades
+## Funcionalidades
 
 ### Motor de Análise
 - **Validação estrita de dados** — datas (DD/MM/AAAA, máx. 60 dias futuro), horários (06h-22h), formatos
@@ -86,7 +86,7 @@ O operador carrega a planilha, clica "Iniciar" e o sistema faz o resto — inclu
 
 ---
 
-## 🏗 Arquitetura
+## Arquitetura
 
 ```
 ┌─────────────────────────────────────────────────┐
@@ -130,7 +130,7 @@ O operador carrega a planilha, clica "Iniciar" e o sistema faz o resto — inclu
 
 ---
 
-## 🛠 Stack Técnica
+## Stack Técnica
 
 | Camada | Tecnologia | Motivo |
 |--------|-----------|--------|
@@ -150,7 +150,7 @@ O operador carrega a planilha, clica "Iniciar" e o sistema faz o resto — inclu
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -164,7 +164,7 @@ O operador carrega a planilha, clica "Iniciar" e o sistema faz o resto — inclu
 
 ---
 
-## 📋 Requisitos da Planilha
+## Requisitos da Planilha
 
 O sistema aceita planilhas `.xlsx` com estrutura padrão:
 
@@ -184,7 +184,7 @@ O sistema aceita planilhas `.xlsx` com estrutura padrão:
 
 ---
 
-## 🚀 Execução
+## Execução
 
 ```bash
 # Instalar dependências
@@ -217,7 +217,7 @@ sentinela-juridico/
 
 ---
 
-## 📊 Métricas
+## Métricas
 
 - **~1.400 linhas** de código Python
 - **5 classes** principais (MotorAnalise, ExecutorOutlook, HistoricoManager, LogPanel, App)
@@ -241,8 +241,8 @@ O código-fonte neste repositório é disponibilizado apenas como **portfólio p
 
 Desenvolvedor de software especializado em automação corporativa, integração com Microsoft Office (COM/Win32) e aplicações desktop com Python.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-silva-8475071b0)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dAnniel-11)
 
 ---
 
