@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.spec
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# App runtime
+runtime/
+_python_path.txt
+
+# Dados do cliente (NUNCA subir)
+excel/
+RELATORIO_ENTREGAS.xlsx
+*.xlsx
+*.xls
+*.csv
+!requirements.txt
+
+# Logs
+*.log
+
+# Installer
+*.exe
+*.msi
