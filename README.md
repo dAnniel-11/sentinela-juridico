@@ -241,7 +241,7 @@ O código-fonte neste repositório é disponibilizado apenas como **portfólio p
 
 Desenvolvedor de software especializado em automação corporativa, integração com Microsoft Office (COM/Win32) e aplicações desktop com Python.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-silva-8475071b0)
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silva-8475071b0?)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dAnniel-11)
 
 ---
